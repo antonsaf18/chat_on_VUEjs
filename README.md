@@ -1,3 +1,8 @@
+Install Node.js (node -v [v10.17.0])
+
+<img style="width: 1150px" src="demo.gif" alt="">
+
+
 # chat
 
 ## Project setup
@@ -40,6 +45,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 В качестве результата работы необходимо прислать ссылку на git-репозиторий с проектом на адрес y.lytkina@education-erp.com. Исходные файлы в архиве присылать не нужно. Также необходимо развернуть приложение на любом ресурсе и прислать ссылку на живое демо. Любые вопросы по заданию можно задать на y.lytkina@education-erp.com. 
 
 
-Install Node.js (node -v [v10.17.0])
 
-<img style="width: 1150px" src="demo.gif" alt="">
